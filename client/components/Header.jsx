@@ -27,7 +27,6 @@ export default function Header() {
         </button>
 
         <div className="flex items-center gap-2 bg-transparent px-3 py-1 rounded-full">
-          <div className="w-8 h-8 rounded-full bg-gray-200" />
           <div className="text-sm">S</div>
         </div>
       </div>

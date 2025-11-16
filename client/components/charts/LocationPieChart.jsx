@@ -9,7 +9,8 @@ const data = [
   { name: "Other", value: 11.2 },
 ];
 
-export const COLORS = ["#27AE60", "#74B9FF", "#FFE082", "#DCE1E4"];
+export const COLORS = ["#000000", "#74B9FF", "#10B981", "#60A5FA"];
+
 
 export default function LocationPieChart({ innerRadius = 44, outerRadius = 72 }) {
   return (
